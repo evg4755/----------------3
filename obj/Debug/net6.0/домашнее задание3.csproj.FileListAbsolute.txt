@@ -1,0 +1,15 @@
+/Users/evgenij/Desktop/домашнее задание3/bin/Debug/net6.0/домашнее задание3
+/Users/evgenij/Desktop/домашнее задание3/bin/Debug/net6.0/домашнее задание3.deps.json
+/Users/evgenij/Desktop/домашнее задание3/bin/Debug/net6.0/домашнее задание3.runtimeconfig.json
+/Users/evgenij/Desktop/домашнее задание3/bin/Debug/net6.0/домашнее задание3.dll
+/Users/evgenij/Desktop/домашнее задание3/bin/Debug/net6.0/домашнее задание3.pdb
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.csproj.AssemblyReference.cache
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.AssemblyInfoInputs.cache
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.AssemblyInfo.cs
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.csproj.CoreCompileInputs.cache
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.dll
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/refint/домашнее задание3.dll
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.pdb
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/домашнее задание3.genruntimeconfig.cache
+/Users/evgenij/Desktop/домашнее задание3/obj/Debug/net6.0/ref/домашнее задание3.dll
